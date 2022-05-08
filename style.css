@@ -1,0 +1,37 @@
+body {
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', Arial, sans-serif;
+    background-image: url("");
+    font-weight: bold;
+    color: black;
+    text-align: center;
+}
+h2 {
+    color: green;
+}
+
+#question{
+  font-size:25px;
+}
+#o1{
+  font-size:20px;
+}
+#o2{
+  font-size:20px;
+}
+#o3{
+  font-size:20px;
+}
+button {
+    color: white;
+    width: 100px;
+    background: #1C39BB;
+    padding-top: 7px;
+    padding-bottom: 7px;
+    font-weight: bold;
+    border: none;
+    border-radius: 2px;
+   }
+#rewards{
+  display:none;
+  margin:auto;
+}
