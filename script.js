@@ -64,7 +64,7 @@ outputarr.push("correct")
 else {
 outputarr.push("incorrect") }
  
-outputEl.innerText="Marks: "+correct+"/3"+"(1: "+outputarr[0]+ ",2: " +outputarr[1]+ ",3: " + outputarr[2]  
+outputEl.innerText="Marks: "+correct+"/3"+"(1: "+outputarr[0]+ ",2: " +outputarr[1]+ ",3: " + outputarr[2]+ ")"
 if(correct===3){
 document.getElementById("rewards").style.display = "block"
 }
