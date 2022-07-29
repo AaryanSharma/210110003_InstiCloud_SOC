@@ -7,11 +7,11 @@ The assignment 1 was the checklist our mentors gave us after week 2 when we lear
 
 These were the learning materials given to us- 
 For WEEK 1 and 2
-https://learngitbranching.js.org/
-https://scrimba.com/learn/learnjavascript
-https://www.youtube.com/watch?v=Gq-HM2cm59Q&list=PLbbtODcOYIoERtG0c6zfUerC00otrh5tK&index=1
+https://learngitbranching.js.org/   
+https://scrimba.com/learn/learnjavascript   
+https://www.youtube.com/watch?v=Gq-HM2cm59Q&list=PLbbtODcOYIoERtG0c6zfUerC00otrh5tK&index=1   
 https://www.learn-html.org/
-
-For WEEK 3 and 4 
-https://www.codecademy.com/learn/react-101
-https://www.youtube.com/watch?v=erpw_22yAJM&t=6380s
+    
+For WEEK 3 and 4     
+https://www.codecademy.com/learn/react-101    
+https://www.youtube.com/watch?v=erpw_22yAJM&t=6380s   
