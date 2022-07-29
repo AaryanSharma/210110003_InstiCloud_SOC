@@ -17,7 +17,7 @@ const Signup = () => {
           placeholder={"Confirm Password"}
           onChange={onChange()}
         />
-        <button type={"submit"}>Sign Up</button>
+        <button type={"submit"} onClick={onChange()}>Sign Up</button>
       </form>
     </div>
   );
